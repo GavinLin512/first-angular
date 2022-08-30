@@ -1,6 +1,6 @@
 {
   "installDependencies": true,
-  "startCommand": "npm run my-app",
+  "startCommand": "ng serve -o",
   "env": {
     "NODE_ENV": "development"
   }
