@@ -1,0 +1,6 @@
+{
+  "name": "node-fnvmdc",
+  "dependencies": {
+    "@angular/cli": "^14.2.1"
+  }
+}
