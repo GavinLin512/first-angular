@@ -1,6 +1,6 @@
 {
   "installDependencies": true,
-  "startCommand": "my-custom-command",
+  "startCommand": "turbo start",
   "env": {
     "NODE_ENV": "development"
   }
