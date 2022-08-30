@@ -1,6 +1,6 @@
 {
   "installDependencies": true,
-  "startCommand": "turbo devserver",
+  "startCommand": "npm run my-app",
   "env": {
     "NODE_ENV": "development"
   }
